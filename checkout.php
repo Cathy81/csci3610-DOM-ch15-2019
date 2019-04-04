@@ -21,12 +21,7 @@
     </style>
     <title>Menu</title>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script type="text/javascript">
-   $(document).ready(function(){
-      cartStr=getCartJson();
-      document.getElementById("cartId").value=cartStr;
-     })
-  </script>
+
   </head>
   <body>
     <div class="container">
